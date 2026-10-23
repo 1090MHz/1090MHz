@@ -24,7 +24,7 @@ C++ engineer by profession, flight simulation enthusiast by passion.
 - [XPlaneOpenGLTrianglePlugin](https://github.com/1090MHz/XPlaneOpenGLTrianglePlugin): minimal modern OpenGL rendering in an X-Plane plugin.
 - [fsuipc-protocol-tutorial](https://github.com/1090MHz/fsuipc-protocol-tutorial): FSUIPC protocol walkthrough in C++.
 
-## What I work with
+## Tech stack
 
 - **Languages:** C++, Python, JavaScript, C
 - **Libraries and tools:** X-Plane SDK, Dear ImGui, LVGL, OpenGL, Cairo, Docker, Hugo, Netlify
@@ -32,7 +32,7 @@ C++ engineer by profession, flight simulation enthusiast by passion.
 
 ## Get in touch
 
-- Browse my repositories: [github.com/1090MHz](https://github.com/1090MHz?tab=repositories)
+- Browse all repositories: [github.com/1090MHz](https://github.com/1090MHz?tab=repositories)
 - Open an issue on any project; collaboration and feedback are welcome.
 
 ## GitHub stats
