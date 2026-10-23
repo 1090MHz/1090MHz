@@ -51,6 +51,8 @@ Building tools for the virtual skies — from X-Plane plugins to developer utili
 
 If you find any of the projects useful, sponsorship is appreciated and helps fund ongoing maintenance and new work.
 
+Enjoy the X-Plane projects? Check out the payware plugins developed by 1090MHz for [AeroSwank](https://store.aeroswank.com).
+
 ## 📊 The Six-Pack
 
 *Flight telemetry from the codebase.*
