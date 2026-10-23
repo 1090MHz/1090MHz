@@ -30,6 +30,12 @@ C++ engineer by profession, flight simulation enthusiast by passion.
 - **Libraries and tools:** X-Plane SDK, Dear ImGui, LVGL, OpenGL, Cairo, Docker, Hugo, Netlify
 - **Platforms:** Windows, Linux
 
+## Support
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-1090MHz-EA4AAA?style=flat&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/1090MHz)
+
+If you find any of the featured projects useful, sponsorship is appreciated and helps fund ongoing maintenance and new work.
+
 ## Get in touch
 
 - Browse all repositories: [github.com/1090MHz](https://github.com/1090MHz?tab=repositories)
