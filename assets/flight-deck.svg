@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">1090 MHz Flight Deck</title>
+  <desc id="desc">A night-sky flight deck graphic with radar rings, a signal trace, and an aircraft silhouette.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset=".55" stop-color="#10263a"/>
+      <stop offset="1" stop-color="#091521"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#55d6e8" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#55d6e8" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#55d6e8" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radar">
+      <stop offset="0" stop-color="#55d6e8" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#55d6e8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#9bb7c8" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="360" rx="18"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="360" fill="url(#sky)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <circle cx="1000" cy="180" r="250" fill="url(#radar)"/>
+    <g fill="none" stroke="#55d6e8" stroke-opacity=".18">
+      <circle cx="1000" cy="180" r="74"/>
+      <circle cx="1000" cy="180" r="132"/>
+      <circle cx="1000" cy="180" r="190"/>
+      <path d="M810 180h380M1000-10v380M866 46l268 268M866 314l268-268"/>
+    </g>
+    <path d="M770 180a230 230 0 0 1 230-230" fill="none" stroke="#55d6e8" stroke-opacity=".62" stroke-width="2"/>
+    <circle cx="934" cy="95" r="4" fill="#f2b866"/>
+    <circle cx="1066" cy="232" r="3" fill="#55d6e8"/>
+    <circle cx="977" cy="276" r="3" fill="#55d6e8"/>
+    <path d="M67 292h1066" stroke="url(#glow)" stroke-width="1"/>
+    <path d="M67 292h242l14-9 11 17 16-33 14 25 12-10h86" fill="none" stroke="#55d6e8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+    <g fill="#a9c0cf" font-family="Consolas, 'Courier New', monospace" letter-spacing="2">
+      <text x="70" y="54" font-size="13">1090 MHz <tspan fill="#55d6e8">/</tspan> FLIGHT DECK</text>
+      <text x="1130" y="54" text-anchor="end" font-size="11" opacity=".75">SOFTWARE · SIMULATION · SYSTEMS</text>
+      <text x="70" y="326" font-size="11" opacity=".8">X-PLANE</text>
+      <text x="180" y="326" font-size="11" opacity=".8">C++</text>
+      <text x="240" y="326" font-size="11" opacity=".8">OPEN SOURCE</text>
+      <text x="1130" y="326" text-anchor="end" font-size="11" opacity=".75">EST. ON THE VIRTUAL FLIGHTLINE</text>
+    </g>
+    <text x="66" y="190" fill="#f3f7fa" font-family="Arial, Helvetica, sans-serif" font-size="104" font-weight="700" letter-spacing="-5">1090<tspan fill="#55d6e8">MHz</tspan></text>
+    <text x="73" y="231" fill="#c0d2df" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="4">CODE FOR THE SIMULATION WORLD</text>
+    <g transform="translate(1018 151)" fill="#f2b866" opacity=".95">
+      <path d="M0 29 84 0 62 29l22 29L0 29Z"/>
+      <path d="m30 27 28-9-11 11 11 11-28-9Z" fill="#10263a"/>
+    </g>
+    <path d="M70 75h110" stroke="#f2b866" stroke-width="3"/>
+  </g>
+</svg>
