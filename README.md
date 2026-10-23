@@ -11,13 +11,13 @@ C++ engineer by profession, flight simulation enthusiast by passion.
 
 ## Featured projects
 
-| Project                                                             | Description                                                                      | Stack      |
-| ------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------- |
-| [OpenXPUIPC](https://github.com/1090MHz/OpenXPUIPC)                 | Open-source XPUIPC-compatible offset emulation layer for X-Plane using DataRefs. | C++        |
-| [PreflightCheckLibs](https://github.com/1090MHz/PreflightCheckLibs) | Docker-based build environment for preflight check libraries.                    | Docker     |
-| [XPlaneUtilities](https://github.com/1090MHz/XPlaneUtilities)       | C++ utilities for X-Plane development.                                           | C++        |
-| [X-Plane-Menu-Hugo](https://github.com/1090MHz/X-Plane-Menu-Hugo)   | Hugo-based X-Plane menu site, published with GitHub Pages.                       | Hugo, HTML |
-| [NeoSlider4XPlane](https://github.com/1090MHz/NeoSlider4XPlane)     | Adafruit NeoSlider as an X-Plane control axis with LED feedback.                 | Python     |
+| Project                                                             | Description                                                                      | Stack            |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------- |
+| [OpenXPUIPC](https://github.com/1090MHz/OpenXPUIPC)                 | Open-source XPUIPC-compatible offset emulation layer for X-Plane using DataRefs. | C++              |
+| [PreflightCheckLibs](https://github.com/1090MHz/PreflightCheckLibs) | Docker-based build environment for preflight check libraries.                    | Docker           |
+| [XPlaneUtilities](https://github.com/1090MHz/XPlaneUtilities)       | C++ utilities for X-Plane development.                                           | C++              |
+| [X-Plane-Menu-Hugo](https://github.com/1090MHz/X-Plane-Menu-Hugo)   | Hugo-based X-Plane menu site, published with GitHub Pages.                       | Hugo, HTML       |
+| [NeoSlider4XPlane](https://github.com/1090MHz/NeoSlider4XPlane)     | Adafruit NeoSlider as an X-Plane control axis with LED feedback.                 | Python           |
 | [SkyImGui](https://github.com/1090MHz/SkyImGui)                     | Interactive airline-inspired ImGui theme generator, deployed on Netlify.         | JavaScript, Hugo |
 
 ## More to explore
